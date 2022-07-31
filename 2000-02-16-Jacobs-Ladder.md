@@ -4,7 +4,7 @@ title: Jacobs Ladder
 description: The goal of this project is to make a demo ready and safe jacob's ladder
 date: 2000-02-16 09:00:00
 hero_image: /web/img/Corne-Bluetooth-Keyboard/Hero.png
-image: /web/img/Corne-Bluetooth-Keyboard/Hero.png
+# image /web/img/Corne-Bluetooth-Keyboard/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
